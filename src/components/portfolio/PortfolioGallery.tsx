@@ -36,15 +36,15 @@ export type PortfolioItem = {
 // ---------- Sample Data (replace with your real projects) ----------
 const sampleData: PortfolioItem[] = [
   {
-    id: "vpass",
-    title: "VPass Coupon 2.0",
+    id: "ysass",
+    title: "ysass Coupon 2.0",
     role: "Design Lead",
     year: "2025",
-    thumb: "https://picsum.photos/seed/vpass/800/600",
+    thumb: "https://picsum.photos/seed/ysass/800/600",
     images: [
-      "https://picsum.photos/seed/vpass1/1200/800",
-      "https://picsum.photos/seed/vpass2/1200/800",
-      "https://picsum.photos/seed/vpass3/1200/800",
+      "https://picsum.photos/seed/ysass1/1200/800",
+      "https://picsum.photos/seed/ysass2/1200/800",
+      "https://picsum.photos/seed/ysass3/1200/800",
     ],
     tags: ["Design System", "Mobile", "Growth"],
     summary: "ミッション連動型クーポン体験の再設計。CVR +18% を達成。",
@@ -54,7 +54,7 @@ const sampleData: PortfolioItem[] = [
       { label: "CVR", value: "+18%" },
       { label: "NPS", value: "+24" },
     ],
-    link: { href: "https://example.com/case/vpass", label: "Case Study" },
+    link: { href: "https://example.com/case/ysass", label: "Case Study" },
   },
   {
     id: "lawtech",
